@@ -1,0 +1,23 @@
+{
+  "name": "bedrock-discordbot",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueNightFury46/BedrockMC-Discord-Namewhitelist.git"
+  },
+  "author": "BlueNightFury46 and Jellie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueNightFury46/BedrockMC-Discord-Namewhitelist/issues"
+  },
+  "homepage": "https://github.com/BlueNightFury46/BedrockMC-Discord-Namewhitelist#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
+}
